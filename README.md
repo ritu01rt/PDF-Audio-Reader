@@ -19,22 +19,17 @@ conda install -c conda-forge pypdf2
 ```
 - pyttsx3: A text-to-speech conversion library, which works offline, unlike others.
 ```
-
+conda install -c auto pyttsx 
 ```
 
 - tkinter: The standard Python interface to the Tk GUI toolkit.  
 ```
-
-```
-
-- os: Provides a way of using OS dependent functionality and interface.
-```
-
+conda install -c anaconda tk
 ```
 
 - argparse: Makes it easy to write user-friendly command-line interfaces.
 ```
-
+conda install -c avengers argparse 
 ```
 
 
