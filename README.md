@@ -14,10 +14,29 @@ The task can be simply divided into 2 steps:
 
 ## Dependencies
 - PyPDF2: It helps to extract document information, merge multiple pages into a single page, encrypt and decrypt PDF files, and more.
+```
+conda install -c conda-forge pypdf2 
+```
 - pyttsx3: A text-to-speech conversion library, which works offline, unlike others.
+```
+
+```
+
 - tkinter: The standard Python interface to the Tk GUI toolkit.  
+```
+
+```
+
 - os: Provides a way of using OS dependent functionality and interface.
+```
+
+```
+
 - argparse: Makes it easy to write user-friendly command-line interfaces.
+```
+
+```
+
 
   
 ## Future developments to accomplish
